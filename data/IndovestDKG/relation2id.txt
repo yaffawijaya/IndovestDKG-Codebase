@@ -1,0 +1,1189 @@
+Mengumumkan	0
+Menghasilkan	1
+Mengendalikan	2
+Meningkatkan	3
+Mempengaruhi	4
+Mengelola	5
+DibangunUntuk	6
+Mengundang	7
+Berpartisipasi	8
+BerinvestasiDi	9
+Menguat	10
+Menawarkan	11
+Mengembangkan	12
+Menyediakan	13
+Menjadi	14
+DikelolaOleh	15
+Memiliki	16
+BekerjaSamaDengan	17
+Bersifat	18
+Melakukan	19
+Menerima	20
+BeroperasiDi	21
+AnggotaDari	22
+Mendalami	23
+Menahan	24
+Mendapatkan	25
+Merugikan	26
+Memperkenalkan	27
+Melaporkan	28
+Menggugat	29
+Menyelidiki	30
+Mendukung	31
+Ditangkap	32
+Mengalami	33
+Menyatakan	34
+Mengenal	35
+Mengajukan	36
+Mengadili	37
+Menghadapi	38
+Membangun	39
+Menduduki	40
+Memungkinkan	41
+TerkaitDengan	42
+Memberikan	43
+Menyimpan	44
+Dapat dicairkan	45
+Membutuhkan	46
+Menetapkan	47
+Menyebut	48
+Menargetkan	49
+Mencapai	50
+Menggunakan	51
+Mengajak	52
+Mengadakan	53
+Mengungkapkan	54
+Menggelar	55
+Mencakup	56
+Harus	57
+Menyerap	58
+Mendorong	59
+Memperkuat	60
+Mengalokasikan	61
+DirancangUntuk	62
+Membantu	63
+Mengambil	64
+Menipu	65
+Memerlukan	66
+DilihatSebagai	67
+Mengonfirmasi	68
+Meluncurkan	69
+Mengoptimalkan	70
+Berdiri	71
+DikembangkanOleh	72
+MelaporKe	73
+Menutup	74
+Menghilangkan	75
+Menginstruksikan	76
+Menerbitkan	77
+Menyetujui	78
+Mengadopsi	79
+Berkomitmen	80
+Meresmikan	81
+Mengandung	82
+Bentuk	83
+Memenuhi	84
+TerdiriDari	85
+Berisi	86
+Menghadiri	87
+Didampingi	88
+Menurunkan	89
+Dikaitkan dengan	90
+Mencatat	91
+Melindungi	92
+Melihat	93
+Menjual	94
+Memilih	95
+Memudahkan	96
+Mengurangi	97
+Dinilai	98
+Bergantung	99
+Dibentuk	100
+Sebagai	101
+Meminjam	102
+Mewakili	103
+Memfasilitasi	104
+Memproses	105
+Berjanji	106
+Mengapresiasi	107
+Menyita	108
+Mengevaluasi	109
+Menciptakan	110
+Menerapkan	111
+Mengeluarkan	112
+Mengawasi	113
+DiselenggarakanDi	114
+Menjabat	115
+Mengimbau	116
+Mengimpor	117
+Memerintahkan	118
+Membahas	119
+Membuat	120
+Mengadukan	121
+Mitigasi	122
+Berkomunikasi	123
+Menghapus	124
+Menyikapi	125
+Menghitung	126
+Menggelontorkan	127
+Menambah	128
+Mengimplementasikan	129
+Membantah	130
+Ditunjuk	131
+Mengusung	132
+Menanamkan	133
+Dijadikan	134
+Mengambil tindakan terhadap	135
+Mengharapkan	136
+Menandatangani	137
+Mendirikan	138
+MenyambutBaik	139
+Mengamankan	140
+DiawasiOleh	141
+BertanggungJawabAtas	142
+Mendekati	143
+Berpandangan	144
+Berkontribusi	145
+Mempercepat	146
+Menjajaki	147
+Mengombinasikan	148
+Menganggarkan	149
+Diluncurkan	150
+Berencana	151
+Dapatkan	152
+Disahkan	153
+Menuturkan	154
+Mengacu pada	155
+Mengkonsolidasikan	156
+Bergabung	157
+Membuka	158
+Mengarahkan	159
+Memimpin	160
+BerdomisiliDi	161
+Memegang	162
+BergabungDalam	163
+BerfokusPada	164
+MenjabatSebagai	165
+MenunjukSebagai	166
+MiripDengan	167
+DidampingiOleh	168
+Mengubah	169
+BerfungsiSebagai	170
+Mendapat	171
+Mitra	172
+Membidangi	173
+Mempersiapkan	174
+BergabungDengan	175
+Mengonsolidasikan	176
+Memastikan	177
+Mampu	178
+Diharapkan	179
+Mengayomi	180
+Mampu Menarik	181
+Memperluas	182
+Mengukur	183
+Memprioritaskan	184
+DibentukUntuk	185
+Menjamin	186
+Mengganggu	187
+Mendesak	188
+Membayar	189
+Menyelesaikan	190
+Menentukan	191
+Dikembangkan oleh	192
+Berperan Dalam	193
+Diproses	194
+Mengacu	195
+Termasuk	196
+Menyinggung	197
+Mengeluh	198
+Mengantisipasi	199
+Dari	200
+Dengan	201
+Setara dengan	202
+Membagikan	203
+Mengusut	204
+Bersama	205
+Menarik	206
+Berupaya	207
+Membiayai	208
+DigunakanUntuk	209
+Melapor	210
+Berharap	211
+Menyiapkan	212
+Menyepakati	213
+Menolak	214
+Berkoordinasi	215
+Memanggil	216
+Berminat	217
+DikaitkanDengan	218
+DipimpinOleh	219
+Bergantung pada	220
+Menggantikan	221
+Mengisahkan	222
+Menghindari	223
+Mempromosikan	224
+BersumberDari	225
+Menginisiasi	226
+Menghambat	227
+Mengakui	228
+Menyarankan	229
+Meyakinkan	230
+Berperan	231
+Meyakini	232
+BeradaDi	233
+BerlokasiDi	234
+Menata ulang	235
+Mengurus	236
+Ditargetkan	237
+Meminta	238
+Berfokus	239
+BerbedaDengan	240
+Perlu	241
+Menekankan	242
+Mencanangkan	243
+Mengupayakan	244
+Mencerminkan	245
+DiluncurkanDi	246
+Menguntungkan	247
+DijualDi	248
+Mentransfer	249
+Tidak Mengembalikan	250
+Melayangkan	251
+Mencatut	252
+Memasuki	253
+Memberi	254
+Mengirim	255
+DibangunOleh	256
+Menyayangkan	257
+BerkaryaSamaDengan	258
+Menyoroti	259
+Mengakumulasi	260
+TermasukDalam	261
+BerfungsiUntuk	262
+Sebesar	263
+Mengotorisasi	264
+Menunjuk	265
+TerletakDi	266
+DibentukOleh	267
+Bermitra	268
+Mempererat	269
+Mempertahankan	270
+Merencanakan	271
+BerkomunikasiDengan	272
+Menghubungi	273
+Bertemu dengan	274
+Mengintroduksi	275
+Menangkap	276
+Menempati	277
+Tumbuh	278
+BerasalDari	279
+Membongkar	280
+Dibagi	281
+BerperanSebagai	282
+MenengahKeAtasMencari	283
+Dalam	284
+Dikenalkan	285
+Diberikan	286
+Mengajarkan	287
+Mencari	288
+Memperoleh	289
+DitunjukSebagai	290
+BerkoordinasiDengan	291
+Diperdagangkan	292
+Mengawali	293
+Tersedia	294
+Tersedia melalui	295
+Terjual	296
+Dirancang dengan	297
+Berdiskusi	298
+Mempelajari	299
+DijaminOleh	300
+Mengakses	301
+Menyisakan	302
+MenarikPerhatian	303
+Minta	304
+Melibatkan	305
+Menjalin	306
+Memperbaiki	307
+Menemukan	308
+Menghentikan	309
+BerkordinasiDengan	310
+Menekan	311
+Mencegah	312
+Menempatkan	313
+Menyuplai	314
+BerdiskusiDengan	315
+MendapatKeuntunganDari	316
+Memprediksi	317
+Salah satu platform utama dari	318
+Menanyakan	319
+Menyebutkan	320
+DiperdagangkanDi	321
+Menyaksikan	322
+Diperkenalkan	323
+Menunjukkan	324
+Memproyeksikan	325
+Mengincar	326
+Diterbitkan oleh	327
+Digunakan untuk	328
+Menyelenggarakan	329
+Dilakukan	330
+Mencabut	331
+Berupa	332
+DibeliOleh	333
+DibuatOleh	334
+Berlangsung	335
+BisaDibeliPada	336
+DitunjukOleh	337
+Mengintruksikan	338
+Stabil	339
+Mendongkrak	340
+Berhasil	341
+Mempertanyakan	342
+Mengidentifikasi	343
+Menyumbang	344
+Mendatangkan	345
+Ingin	346
+Yakin	347
+Mengintegrasikan	348
+Terletak di	349
+Berada di	350
+Memberdayakan	351
+Memajukan	352
+MengundurkanDiri	353
+Memfokuskan	354
+Memulai	355
+Memperhatikan	356
+Memperingatkan	357
+Diatur dalam	358
+DiaturDalam	359
+DitujukanUntuk	360
+Memeriksa	361
+Merekomendasikan	362
+Menunggu	363
+Mengawal	364
+Melarang	365
+Membentuk	366
+Mengemukakan	367
+Menilai	368
+Bernegosiasi	369
+Menyuguhkan	370
+DigunakanOleh	371
+Mengirimkan	372
+Memberikan kontribusi	373
+Mempekerjakan	374
+Bertemu	375
+Membeli	376
+Berasal dari	377
+Berencana membangun	378
+Berkeinginan	379
+Didirikan Oleh	380
+Memanfaatkan	381
+Mengikat	382
+Dijanjikan	383
+TidakAda	384
+Memasarkan	385
+Menangani	386
+Melemah	387
+Memantau	388
+DiselenggarakanOleh	389
+Berubah	390
+Hadir	391
+Dijadwalkan	392
+Mengindikasikan	393
+DiberikanUntuk	394
+Menggarisbawahi	395
+Menghubungkan	396
+Mengangkat	397
+Membawa	398
+Berinovasi	399
+Berhati-hati	400
+DigunakanSebagai	401
+Diperkirakan	402
+Membenarkan	403
+Merevisi	404
+Mengkaji	405
+Mengunjungi	406
+Memperkirakan	407
+Dipandang	408
+Dibandingkan	409
+Mencetak	410
+Mencatatkan	411
+Menyentuh	412
+Mengenai	413
+Menghimpun	414
+DiadakanDi	415
+BergerakDi	416
+Memindahkan	417
+Mematuhi	418
+Dialokasikan untuk	419
+Melayani	420
+Menyusun	421
+Membenahi	422
+Merancang	423
+Diperkirakan mencapai	424
+Menyesuaikan	425
+Menyangkut	426
+Mendiversifikasi	427
+Memberlakukan	428
+Ditentukan	429
+Menarik minat	430
+Terdiri dari	431
+Dibiayai Oleh	432
+Mengatasi	433
+Mengkritisi	434
+Menganggap	435
+Mengharap	436
+Mempasarkan	437
+Menganjurkan	438
+Menagih	439
+BagianDari	440
+Fokus	441
+Optimis	442
+Fokus pada	443
+Menambahkan	444
+DilengkapiDengan	445
+Menginginkan	446
+Dilarang	447
+Menuntut	448
+Bersedia	449
+Menghargai	450
+Tuntas	451
+Menggabungkan	452
+Mendominasi	453
+Menggerakkan	454
+Mengeluhkan	455
+Menderita	456
+Menjaga	457
+Mempermudah	458
+DihadiriOleh	459
+Membaca	460
+DigunakanDalam	461
+Menaungi	462
+Menanggapi	463
+Berpotensi	464
+Mempertimbangkan	465
+Mewajibkan	466
+Memblokir	467
+DiakuiSebagai	468
+Menggeledah	469
+DianggapSebagai	470
+Terdapat	471
+CocokUntuk	472
+Wajib	473
+BerperanDalam	474
+Meraih	475
+Hadiri	476
+Mengejar	477
+Tertarik	478
+Optimistis	479
+Diprediksi	480
+Melalui	481
+Mendaftarkan	482
+menjabat sebagai	483
+Melantik	484
+Memahami	485
+Menandai	486
+Mengontrol	487
+Merealisasikan	488
+Mendampingi	489
+Bersinergi	490
+Memberikan perhatian	491
+Menjalani	492
+Menentang	493
+Berkomitmen mencapai	494
+Berkomitmen untuk	495
+Mengakuisisi	496
+TelahMencapai	497
+DitunjukkanOleh	498
+Akan diresmikan	499
+DikenalSebagai	500
+Mengganti	501
+Menggambarkan	502
+Mengutamakan	503
+BerkemitraanDengan	504
+Sumber gas berasal dari	505
+Dilakukan secara	506
+Ditawarkan	507
+DiterbitkanDalam	508
+JatuhTempo	509
+Tidak merugikan	510
+Berkembang	511
+Melirik	512
+TerdaftarDi	513
+DiterbitkanOleh	514
+Dianggap	515
+Memainkan	516
+Bagi	517
+Sedang	518
+Mengaku	519
+Diperiksa	520
+Melanggar	521
+Dideportasi	522
+Masuk	523
+Dapat membantu	524
+Berfungsi	525
+Mengkomitmenkan	526
+Membicarakan	527
+BerlangsungDi	528
+Dibutuhkan	529
+Ditutup	530
+Mampu menyerap	531
+Mempelopori	532
+Memangkas	533
+Memaparkan	534
+Menyerahkan	535
+DilaksanakanDi	536
+Menyalurkan	537
+Mengamati	538
+Melemahkan	539
+Cenderung	540
+Mengancam	541
+Terdaftar di	542
+Dijual	543
+Menunjukan	544
+Diproyeksikan	545
+Digelar	546
+Menguasai	547
+Memasok	548
+DigantikanOleh	549
+MengambilAlih	550
+MengambilPeranSebagai	551
+Menyumbangkan	552
+Tercatat	553
+Menggandeng	554
+Menyambut	555
+Mengomentari	556
+Rekomendasi	557
+DigelarDi	558
+HadirDi	559
+Menyaring	560
+Didominasi	561
+Melaksanakan	562
+BerkunjungKe	563
+SetaraDengan	564
+Meliputi	565
+Terdominasi oleh	566
+Disebut	567
+DitahanDi	568
+Menyuntikkan	569
+Dijamin	570
+Menggenjot	571
+Senilai	572
+DitutupDi	573
+Dikenakan	574
+Mengelilingi	575
+Mewujudkan	576
+Fokus kepada	577
+Membukukan	578
+DimanfaatkanSebagai	579
+DisediakanOleh	580
+DilakukanMelalui	581
+Merespons	582
+Dilihat	583
+DidugaMelakukan	584
+DilantikSebagai	585
+Mencantumkan	586
+Mendatangi	587
+Membacakan	588
+Mengisi	589
+Berkemitraan	590
+Mengkritik	591
+DisebabkanOleh	592
+Dilibatkan	593
+TercatatDi	594
+DiakuisisiOleh	595
+Mengungkap	596
+Dapat	597
+Memonitor	598
+Membidik	599
+Berbatasan langsung dengan	600
+Ditentukan oleh	601
+Didominasi oleh	602
+Membatalkan	603
+Berizin	604
+Merilis	605
+Melengkapi	606
+Lebih tinggi dari	607
+Mengungguli	608
+Dinilai lemah pada	609
+Berperan dalam	610
+Maksimal	611
+Diterbitkan	612
+Menyebabkan	613
+Meneruskan	614
+Menyukai	615
+Berseinergi	616
+Menjanjikan	617
+Mendeteksi	618
+Mengakuisi	619
+Ditawarkan kepada	620
+Dijamin Oleh	621
+Diterbitkan Oleh	622
+Dijerat	623
+Enggan	624
+Bertransformasi	625
+DikenalDengan	626
+Dibanderol	627
+Menunda	628
+Dijamin oleh	629
+BeradaDalam	630
+Lebih menguntungkan	631
+Mendeklarasikan	632
+Berkata	633
+Menyambut baik	634
+Dapat digunakan untuk	635
+DidirikanDi	636
+MengacuPada	637
+Menggarap	638
+Meneliti	639
+DikuasaiOleh	640
+DitentukanSebagai	641
+DidominasiOleh	642
+Tidak Memenuhi	643
+Dipicu oleh	644
+Bisa membeli	645
+Hadir dengan	646
+Memecat	647
+DitempatkanPada	648
+Menginformasikan	649
+Meneken	650
+Terdaftar	651
+Menerangkan	652
+Menyusul	653
+MitraDari	654
+Mengucapkan	655
+Menopang	656
+Mempresentasikan	657
+Mengulas	658
+Berdampingan	659
+Memperbarui	660
+Menyetorkan	661
+Tertinggal	662
+DialokasikanUntuk	663
+Ditangani	664
+Menimbulkan	665
+Mengakibatkan	666
+BermitraDengan	667
+DibiayaiDengan	668
+BerakhirDi	669
+DilakukanDalam	670
+Dibiayai	671
+Menggali	672
+Memaksimalkan	673
+Diketuai oleh	674
+FokusPada	675
+Bernilai	676
+Berada	677
+Bakal	678
+Mengunakan	679
+Menuju	680
+Mempercayai	681
+DitangkapDalam	682
+DidirikanOleh	683
+Dipimpin oleh	684
+Memproyeksi	685
+Meminta pertanggungjawaban	686
+Melanjutkan	687
+Terjadi pada	688
+DiciptakanOleh	689
+Mengabulkan	690
+Blokir	691
+Mengutip	692
+Memikirkan	693
+BersaingDengan	694
+Bersumber dari	695
+Memasukkan	696
+Dapat melakukan	697
+BeraktivitasDi	698
+Tidak Bertanggung Jawab	699
+Divonis	700
+Menjabat Sebagai	701
+Memandang	702
+Terserap	703
+Menyindir	704
+Dibangun	705
+Diekspor	706
+DikemudikanOleh	707
+Dirilis	708
+Merujuk	709
+Mengantongi	710
+Berhak Menerima	711
+Dibayarkan	712
+Cocok Untuk	713
+Memenangkan	714
+Dapat memberikan	715
+Mengklaim	716
+Diperlukan	717
+Melepas	718
+Mungkin	719
+Mengantarkan	720
+Target	721
+Mengakomodasi	722
+TerhubungDengan	723
+Menyasar	724
+Mengecek	725
+MasukDalam	726
+Menggaet	727
+Untuk	728
+Menyimpulkan	729
+Memutuskan	730
+Berpeluang	731
+Menampung	732
+Setara	733
+Mendaftar	734
+Membatasi	735
+Menjunjung tinggi	736
+Menjabat sebagai	737
+Memperpanjang	738
+Mengusahakan	739
+Menceritakan	740
+Dibeli	741
+Berjumlah	742
+Mendistribusikan	743
+Mengakselerasi	744
+Merosot	745
+Melonjak	746
+Anjlok	747
+Bertumbuh	748
+DikerjakanOleh	749
+Menindaklanjuti	750
+Mengantar	751
+Berkompetisi	752
+Diminati	753
+Mendanai	754
+Cocok untuk	755
+Menelusuri	756
+Menunjang	757
+Fluktuatif	758
+Dilaporkan	759
+Memuji	760
+DitetapkanSebagai	761
+MengambilKeputusan	762
+Diawasi	763
+Asal	764
+Mewariskan	765
+Meninggal	766
+Berkesinambungan	767
+Mengaudit	768
+Diselenggarakan	769
+Berkomentar	770
+DijualOleh	771
+Merekrut	772
+Menanggung	773
+BeradaPada	774
+Menang	775
+Merayu	776
+Memberi Rekomendasi	777
+LebihCocok	778
+Menitipkan	779
+Menggodok	780
+BerpartnerDengan	781
+Berusaha	782
+MendapatUntung	783
+Dilirik	784
+Diharapkan dapat memfasilitasi	785
+Diproyeksi	786
+Mengaku rugi	787
+Berfokus pada	788
+MendapatTugas	789
+Kategori	790
+Sebanyak	791
+Mengiming-imingi	792
+Dirakit	793
+Percaya	794
+Menuduh	795
+Mengalahkan	796
+Antara Lain	797
+TersebarDi	798
+SesuaiDengan	799
+DitetapkanOleh	800
+Butuh	801
+Menggratiskan	802
+Mengkoordinasikan	803
+LebihBaikDibandingkan	804
+LebihRendahDibandingkan	805
+DibangunDi	806
+TersambungDengan	807
+Calon Pemrakarsa	808
+Terbangun	809
+DiKetahuiSebagai	810
+AdaKasus	811
+Digunakan	812
+Menyetor	813
+Dialokasikan	814
+Ditabung	815
+Dianjurkan	816
+Dilaporkan hilang	817
+Aktif Dalam	818
+Menganalisis	819
+Mengesahkan	820
+Mempercayakan	821
+Berisikan	822
+DidanaiOleh	823
+Bermitra dengan	824
+Menghalangi	825
+Mengakreditasi	826
+Mengadu	827
+Berkonsultasi	828
+Menampilkan	829
+Dikoordinasikan	830
+Terintegrasi	831
+DieksporKe	832
+Diancam dengan	833
+Dinyatakan	834
+Terdapat di	835
+Membandingkan	836
+Dituntut	837
+Ditandatangani	838
+Kait	839
+Bergandeng	840
+Tidak Hadir	841
+Ditetapkan	842
+Diterapkan	843
+DilaksanakanPada	844
+Menyalahkan	845
+Membayarkan	846
+Dapat menyerap	847
+Menjerat	848
+Berkoordinasi dengan	849
+Mampu mencapai	850
+Meratifikasi	851
+Denda	852
+Targetkan	853
+TidakMemberikan	854
+Membimbing	855
+KuasaHukumDari	856
+Ditolak	857
+Sepakat	858
+Kalah	859
+DitemukanPada	860
+Merasa	861
+Diciptakan oleh	862
+Memasang	863
+Mengerjakan	864
+Memberi pengarahan	865
+Merepresentasikan	866
+Menabrak	867
+Mengalami penurunan hingga	868
+Memromosikan	869
+Tertipu	870
+Dapat menyediakan	871
+Diduga	872
+Menggelapkan	873
+Membawahi	874
+DialokasikanKe	875
+Berkedok	876
+DilaporkanKe	877
+Di kalahkan oleh	878
+Menguji	879
+Sampai	880
+Berdasarkan	881
+Ke	882
+Dibutuhkan oleh	883
+Menulis	884
+Mencoba	885
+Menggerus	886
+Menyerah	887
+Berorientasi	888
+Mewaspadai	889
+Mengizinkan	890
+DapatDiaksesOleh	891
+Mengadaptasi	892
+DisalurkanKe	893
+DiaturUlang	894
+BerangkatDari	895
+Bisa	896
+Melampaui	897
+Menunjukkan Minatnya	898
+Mewanti-wanti	899
+Berisiko	900
+Terhubung	901
+Menindak	902
+Menyewa	903
+Mengomunikasikan	904
+Mengabarkan	905
+Selaku	906
+Dominasi oleh	907
+Bersaing	908
+Digabungkan	909
+Menyadari	910
+Diserahkan kepada	911
+Harus terdaftar di	912
+Menggalang	913
+Melimpahkan	914
+Beranggotakan	915
+BerbicaraDengan	916
+Disita	917
+Terlapor	918
+DirekturUtamaDari	919
+Mengasuransikan	920
+Mengabaikan	921
+Menggalakkan	922
+Mewakafkan	923
+Mendiskusikan	924
+Belum memutuskan	925
+Rencana	926
+Mendelegasikan	927
+Pernah Menjabat	928
+Mengemban	929
+Diresmikan	930
+Diperuntukkan bagi	931
+DilaporkanOleh	932
+Memulihkan	933
+Menggagas	934
+Menggeluti	935
+Dipimpin	936
+Berpilar	937
+Menyidik	938
+Ditetapkan Oleh	939
+Melebihi	940
+Memberhentikan	941
+Harus memahami	942
+Sifatnya	943
+TerpilihSebagai	944
+DibangunMenggunakan	945
+Mencairkan	946
+Membekukan	947
+Menduga	948
+Melacak	949
+Terkontraksi	950
+BertemuDengan	951
+Pencetus	952
+Membuktikan	953
+DilakukanPada	954
+Mengetahui	955
+Diajukan Oleh	956
+Ditahan	957
+Menantikan	958
+Digugat	959
+Pelapor	960
+Direktur	961
+Mengatasnamakan	962
+Mundur	963
+TersediaDi	964
+MendudukiJabatan	965
+Tersangka	966
+Diwakili	967
+DitetapkanSebagaiTersangka	968
+DijeratPasal	969
+Mengajar	970
+Mengiklankan	971
+Berkesempatan	972
+DikerjakanDengan	973
+DilaksanakanOleh	974
+DiprakarsaiOleh	975
+Mengerti	976
+Digunakan oleh	977
+Dapat disusun berdasarkan	978
+Merintis	979
+DibangunDengan	980
+DilakukanDi	981
+BersinergiDengan	982
+Menabung	983
+Selalu	984
+Berada Di	985
+Bersahabat	986
+Mendata	987
+TerdapatDalam	988
+BermukimDi	989
+Mengedukasi	990
+Mengajukan Gugatan	991
+Melinati	992
+Tergiur	993
+Sedang dalam	994
+TinggalDi	995
+DikeluarkanOleh	996
+Akan Mendorong	997
+Dibantu	998
+Menggugut	999
+Tergugat	1000
+Jumlah	1001
+Ditujukan untuk	1002
+Didampingi oleh	1003
+Memberi kesempatan kepada	1004
+Berkisar	1005
+Memecahkan	1006
+Menyisihkan	1007
+Mengamini	1008
+Mengoleksi	1009
+Berkemitraan dengan	1010
+Masuk ke	1011
+Mengkoordinasi	1012
+Menghormati	1013
+Mengkhawatirkan	1014
+Berhak	1015
+Mentrasfer	1016
+Akuisisi	1017
+DisetorKe	1018
+Diawasi oleh	1019
+Menginspirasi	1020
+Dikenal	1021
+Merger	1022
+Dikerjakan Oleh	1023
+DimintaUntuk	1024
+Memperbesar	1025
+MenikahDengan	1026
+Dikembangkan	1027
+BerdiriDi	1028
+TerafiliasiDengan	1029
+Mampu memenuhi	1030
+BerpengalamanDi	1031
+Mencarikan	1032
+Berkaitan	1033
+Berencana IPO	1034
+Merampungkan	1035
+DiperluasDengan	1036
+Meminta maaf	1037
+Berpendapat	1038
+Bergerak	1039
+Disetujui	1040
+Merelokasi	1041
+Mengintervensi	1042
+DibutuhkanUntuk	1043
+Ditopang oleh	1044
+TidakTerdaftarSebagai	1045
+Menggeser	1046
+MendapatKredit	1047
+Tertekan	1048
+MengucapkanTerimaKasih	1049
+Membelanjakan	1050
+Mencermati	1051
+Dilakukan pada	1052
+Dapat dijadikan sebagai	1053
+Mengurusi	1054
+Mendengarkan	1055
+BertindakSebagai	1056
+Membuka Peluang Sewa	1057
+Berada Dekat Dengan	1058
+Suka	1059
+DikenalOleh	1060
+Menganalisa	1061
+BurukUntuk	1062
+BulanBurukUntuk	1063
+BaikUntuk	1064
+Mengasumsikan	1065
+MengambilJabatanSebagai	1066
+Mengkonfirmasi	1067
+Berterima kasih kepada	1068
+Mendengar	1069
+Dapat Menarik	1070
+DiprediksiDidudukiOleh	1071
+Akan	1072
+Diabadikan	1073
+DiisiOleh	1074
+Meminjamkan	1075
+Setuju	1076
+Mengeksekusi	1077
+Menghemat	1078
+Menjaminkan	1079
+Mengangkut	1080
+Turut serta	1081
+Menanam	1082
+Berbicara	1083
+Diprakarsai	1084
+DilibatkanDalam	1085
+TercantumDalam	1086
+DikenakanPada	1087
+BertentanganDengan	1088
+Memohon	1089
+Dilepas	1090
+Tergerus	1091
+Melegalkan	1092
+Mempopulerkan	1093
+Ditunjuk sebagai	1094
+Dinamai	1095
+Akan membangun	1096
+Berperan untuk	1097
+Dipatok	1098
+Klaim	1099
+BerkirimSurat	1100
+Mengintegrasi	1101
+Memborong	1102
+Menegur	1103
+Mengacu kepada	1104
+Disusul	1105
+DapatDimanfaatkanUntuk	1106
+Terkoreksi	1107
+Memberikan Arahan	1108
+Dicoret dari	1109
+Menyahkan	1110
+Menembus	1111
+Menyandang	1112
+MengambilTindakanTerhadap	1113
+Dibangun oleh	1114
+Dapat digunakan sebagai	1115
+Difokuskan pada	1116
+MenyatakanKomitmen	1117
+BekerjaKeras	1118
+Ada di	1119
+Berbahaya	1120
+DiputusBebas	1121
+BerkinerjaBaik	1122
+MasukKe	1123
+Siap	1124
+Diajak	1125
+Bersinergi Dengan	1126
+Bertindak	1127
+Dijadikan sebagai	1128
+Meninjau	1129
+Merasa dirugikan	1130
+Bergairah	1131
+Berdialog	1132
+DidakwaDengan	1133
+Mendiri	1134
+BekerjaDi	1135
+Berbeda dengan	1136
+Harusnya	1137
+Terjangkit	1138
+Mengambil alih	1139
+Melawan	1140
+DiperiksaSebagai	1141
+Dilaporkan ke	1142
+Memperiksa	1143
+Mendapat laporan	1144
+Menghimbau	1145
+Menyewakan	1146
+Diperoleh	1147
+Menyambangi	1148
+ImbalHasilTerbaik	1149
+KinerjaNegatif	1150
+Menyerahterimakan	1151
+Diminta	1152
+Mengambil tindakan	1153
+MendapatTugasDari	1154
+Mengakomodir	1155
+Mempersilakan	1156
+Memesan	1157
+Dapat Mendapat	1158
+Dapat Memberikan	1159
+Mengestimasikan	1160
+DisimpanDi	1161
+HarusDibayarkan	1162
+Beralih ke	1163
+Mengenakan biaya	1164
+Meminta bantuan dari	1165
+DijualDalam	1166
+Bisa dibeli	1167
+Ragu	1168
+BerencanaUntuk	1169
+BerkeinginanUntuk	1170
+Terdiri Dari	1171
+Dengan Rincian	1172
+Dalam Bentuk	1173
+Tertarik untuk	1174
+MengambilProduk	1175
+Belajar	1176
+DilakukanOleh	1177
+Mengurai	1178
+Turut hadir	1179
+Terstimulus	1180
+Alternatif	1181
+TidakTepat	1182
+Mengupas	1183
+Direkomendasikan Untuk	1184
+Akan membayar	1185
+Akan diterapkan	1186
+Dapat mencoba	1187
+Membaik	1188
