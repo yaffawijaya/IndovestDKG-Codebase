@@ -1,0 +1,119 @@
+ENTITY NORMALIZATION SUMMARY
+==================================================
+
+Overall Impact:
+  Total changes applied: 23,441
+  Entities before: 46,206
+  Entities after: 45,309
+  Entity reduction: 897
+  Rows before: 68,207
+  Rows after: 68,207
+
+General Updates: 93
+  - sri mulyani indrawati: 3 entities
+  - suhendra: 1 entities
+  - jokowi: 1 entities
+  - andrew forrest: 1 entities
+  - gubernur jabar ridwan kamil: 2 entities
+  - profesional: 1 entities
+  - june indria: 1 entities
+  - vladimir putin: 1 entities
+  - trump: 1 entities
+  - anies baswedan: 3 entities
+  - erick thohir: 1 entities
+  - samudra zahrotul bilad: 1 entities
+  - arifin tasrif: 1 entities
+  - prabowo: 1 entities
+  - indra bekti: 1 entities
+  - perry warjiyo: 1 entities
+  - manajer investasi profesional: 1 entities
+  - hendry susanto: 2 entities
+  - dody hanggodo: 1 entities
+  - donald trump: 3 entities
+  - investor profil risiko: 1 entities
+  - janet yellen: 1 entities
+  - pandu sjahrir: 1 entities
+  - siti badriah: 2 entities
+  - gubernur kepri nurdin basirun: 1 entities
+  - andre rosiade: 1 entities
+  - jusuf kalla: 3 entities
+  - edhy prabowo: 2 entities
+  - republik indonesia prabowo: 2 entities
+  - maruarar sirait: 1 entities
+  - gibran rakabuming raka: 2 entities
+  - mahendra siregar: 1 entities
+  - andrian tanuwijaya: 1 entities
+  - rma: 1 entities
+  - keputusan presiden jokowi: 1 entities
+  - indra priawan: 1 entities
+  - sudaryono: 1 entities
+  - djoni bunarto tjondro: 1 entities
+  - mulyani indrawati: 1 entities
+  - ganjar pranowo: 1 entities
+  - andre effendi: 1 entities
+  - bsi: 2 entities
+  - bank mega: 2 entities
+  - bank investasi: 1 entities
+  - kementerian keuangan: 3 entities
+  - pembangunan nasional: 2 entities
+  - kementerian investasi: 5 entities
+  - bank muamalat: 1 entities
+  - menteri baru: 1 entities
+  - bank of america: 1 entities
+  - bank for international: 3 entities
+  - kementerian lingkungan: 2 entities
+  - kementerian koordinasi: 2 entities
+  - danareksa investment management: 3 entities
+  - kementerian perdagangan: 2 entities
+  - bank digital: 1 entities
+  - keb hana bank: 1 entities
+  - kementerian keuangan as: 1 entities
+  - bank commonwealth: 1 entities
+  - kementerian agama: 3 entities
+  - kementerian pekerjaan umum: 1 entities
+  - bank oke indonesia: 1 entities
+  - bpr: 1 entities
+  - kementerian pertanian: 2 entities
+  - cuan: 2 entities
+  - kementerian esdm: 2 entities
+  - kementerian perindustrian: 5 entities
+  - kb bank: 2 entities
+  - bank syariah bukopin: 2 entities
+  - bappenas: 1 entities
+  - bank ocbc nisp: 2 entities
+  - sucor sekuritas: 1 entities
+  - yalsa butik: 1 entities
+  - bank neo commerce: 2 entities
+  - bank sampoerna: 1 entities
+  - bank bumn: 2 entities
+  - kementerian pupr: 1 entities
+  - kementerian investasi/bkpm: 1 entities
+  - bank dbs indonesia: 4 entities
+  - bank dunia: 1 entities
+  - bank aladin syariah: 1 entities
+  - yalsa boutique: 1 entities
+  - bank hsbc indonesia: 1 entities
+  - kementerian pariwisata: 2 entities
+  - kementerian koordinator: 1 entities
+  - bank maybank indonesia: 1 entities
+  - kementerian pendidikan: 1 entities
+  - kementerian perumahan: 1 entities
+  - usaha mikro kecil: 1 entities
+  - bank uob indonesia: 1 entities
+  - kementerian pertahanan: 1 entities
+  - bankrate: 1 entities
+  - bank panin: 1 entities
+
+Specific Updates: 1000
+  - sugianto kusuma: 1 entities
+  - satgas waspada investasi: 7 entities
+  - kalangan ultra high: 1 entities
+  - iwan setiawan lukminto: 1 entities
+  - nang engki anom suseno: 1 entities
+  - lim guan eng: 1 entities
+  - piter abdullah: 2 entities
+  - sukanto tanoto: 1 entities
+  - investor wanita: 1 entities
+  - bambang soesatyo: 1 entities
+
+Deletions: 0
